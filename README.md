@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ankith hebbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankith hebbar" height="30" width="40" /></a>
 <a href="https://instagram.com/ankith_hebbar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankith_hebbar_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ankithh35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankithh35" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankithh354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankithh354" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
