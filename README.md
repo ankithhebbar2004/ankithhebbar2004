@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankith Hebbar</h1>
-<h3 align="center">A passionate Data Science Engineer and Explorer</h3>
+<h3 align="center">A passionate Data Science and AI enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankithhebbar2004&label=Profile%20views&color=0e75b6&style=flat" alt="ankithhebbar2004" /> </p>
 
