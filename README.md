@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankithhebbar2004" alt="ankithhebbar2004" /></a> </p>
 
-- 🔭 I’m currently working on **Food Ordering Management System**
+- 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **RAG,LLM Orchestration**
 
 - 👯 I’m looking to collaborate on **Data science projects**
 
